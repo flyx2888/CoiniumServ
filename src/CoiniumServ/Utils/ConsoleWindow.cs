@@ -65,9 +65,10 @@ namespace CoiniumServ.Utils
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("You can contribute the development of the project by donating;");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(" BTC : 1MMdwRZg4K9p6oH2bWUQdohbxGbAvXS1t1");
-            Console.WriteLine(" ETH : 0x61aa3e0709e20bcb4aedc2607d4070f1db72e69b");
-            Console.WriteLine(" LTC : Ld8cy4ucf3FYThtfTnRQFFp5MKK9rZHjNg");
+            Console.WriteLine(" BTC : 3H1Bg5pYJCX262spwyinkiQXzvh1bQuSLZ");
+            Console.WriteLine(" BCH : 1FSfdMCH3z6hY8ELB3tDiZfpoKTZQ3Sq6y");
+            Console.WriteLine(" ETH : 0xa31d781583c5dc2a4551f465092949174bac1871");
+            Console.WriteLine(" LTC : MPv7LseAAWLXNXujvrRiNF8Bbx7DtJKx5J");
             Console.WriteLine();
             Console.ResetColor();
         }
