@@ -118,7 +118,7 @@ If you would like to automatically donate a percentage of your pool's earning to
 ##### Model
 
 * We have implemented extensive [tests](https://github.com/flyx2888/CoiniumServ/tree/develop/src/Tests) for all important functionality and never merge in code that breaks tests and stuff. Yet again, when a new functionality is introduced we also expect proper tests to be implemented within the PR. In simple words, most probably you won't notice any functionality-breaking changes within the repository.
-* A strict ruleset for the [Development Model](https://github.com/flyx2888/CoiniumServ/wiki/Development-Model). You can follow our bleeding-edge [Develop](https://github.com/bonesoul/CoiniumServ) branch or stay with-in the stable [Master](https://github.com/flyx2888/CoiniumServ/tree/master) branch.
+* A strict ruleset for the [Development Model](https://github.com/flyx2888/CoiniumServ/wiki/Development-Model). You can follow our bleeding-edge [Develop](https://github.com/flyx2888/CoiniumServ) branch or stay with-in the stable [Master](https://github.com/flyx2888/CoiniumServ/tree/master) branch.
 
 ##### Contributing
 
