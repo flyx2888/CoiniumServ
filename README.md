@@ -51,7 +51,7 @@ Start by checking our [Getting Started](https://github.com/flyx2888/CoiniumServ/
 
 ### User Support
 
-Start by reading our [FAQ](https://github.com/flyx2888/CoiniumServ/wiki/FAQ) and [wiki](https://github.com/bonesoul/CoiniumServ/wiki/). You can also use our [issues](https://github.com/flyx2888/CoiniumServ/issues) page to report bugs.
+Start by reading our [FAQ](https://github.com/flyx2888/CoiniumServ/wiki/FAQ) and [wiki](https://github.com/flyx2888/CoiniumServ/wiki/). You can also use our [issues](https://github.com/flyx2888/CoiniumServ/issues) page to report bugs.
 
 ##### Discussions
 
